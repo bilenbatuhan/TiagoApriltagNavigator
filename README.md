@@ -38,4 +38,4 @@ This project implements a robotic navigation and object detection system using t
 ---
 
 ## **Video Demonstration**
-[Link to Video Demonstration]([https://github.com/AprilRobotics/apriltag_ros](https://github.com/bilenbatuhan/TiagoApriltagNavigator/blob/main/Video/Assignment.mp4))
+[Link to Video Demonstration](https://github.com/bilenbatuhan/TiagoApriltagNavigator/blob/main/Video/Assignment.mp4)
