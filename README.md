@@ -29,8 +29,8 @@ This project implements a robotic navigation and object detection system using t
   - Navigation Stack
   - TF Transformations
   - Sensor Data Processing
-- **Programming Language**: Python
-- **Simulation Tools**: Gazebo, VLAB
+- **Programming Language**: C++
+- **Simulation Tools**: Gazebo
 - **Libraries**:
   - [AprilTag](https://github.com/AprilRobotics/apriltag)
   - [AprilTag_ROS](https://github.com/AprilRobotics/apriltag_ros)
