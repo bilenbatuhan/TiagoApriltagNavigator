@@ -37,8 +37,5 @@ This project implements a robotic navigation and object detection system using t
 
 ---
 
-## **Setup Instructions**
-1. **Install Dependencies**:
-   ```bash
-   sudo apt-get update
-   sudo apt-get install ros-noetic-desktop-full python3-rosinstall python3-catkin-tools
+## **Video Demonstration**
+[Link to Video Demonstration](https://github.com/AprilRobotics/apriltag_ros)
