@@ -2,6 +2,7 @@
 
 ## **Project Overview**
 This project implements a robotic navigation and object detection system using the Tiago robot and ROS (Robot Operating System). The main task involves navigating through an environment to locate red cubes tagged with AprilTags, identifying their unique IDs, and determining their positions.
+![Tiago Robot](https://github.com/bilenbatuhan/TiagoApriltagNavigator/blob/main/Video/Gazebo.png)
 
 ---
 
